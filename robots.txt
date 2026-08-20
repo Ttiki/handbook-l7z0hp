@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ttiki.github.io/handbook-l7z0hp/sitemap.xml
